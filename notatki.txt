@@ -1,0 +1,56 @@
+Zmiany:
+-Brak zadań zdalnych
+
+
+Część pierwsza Sortowanie i podsatwowe Algorytmy:
+-Sortowania
+Część druga Algorytmy grafowe i struktury danych:
+
+Część trzecia Konstrukcja algorytmów:
+-dynamiczne , zachłanne , drzewa przedziałowe
+
+
+Ocenianie 
+3+4+4 cwiczenia 
+3 kolokwia i zadania offiline(niepunktowane)
+Max jeden plus na każdą Część ćwiczeń (warte 1+1+1) pkt
+
+złoozonosc kodu 0-4 pkt - kolokwium
+testy 2pkt
+opis niezgody z kodem 0pkt
+
+Kolokwia:
+    -o godzinie 16:45
+    maksumalny wynik 21pkt zaliczenie od minimum 10pkt
+    sumujemy punkty za 3 kolosy  + dodajemy plsuy z cwiczeń
+
+    za jednego kolosa 7pkt
+
+Zadania Offline :
+-zadania  z kolokwiów i egzaminów z poprzednich lat(czasem nowe)
+-Weryfikacja automatyczna
+-Brak  punktów do oceny
+-Jest to tylko przygotowanie od kolokwiow
+
+kolokwium:
+-27 III 2025 I-piersze
+-8 V 2025 II-drugie
+-12 VI 2025 III-trzecie
+
+
+
+Język programowania
+Legalne :
+-Podstawowe operacje
+-warunki,petle
+-Listy,Krotki 
+-min,Max
+-Klasy (jako struktury danych)
+-brak importowanych bibliotek
+
+po  2 odblokowuje sie Sort deque(np)
+
+
+dosatkowe omawianie online kolokwiow i Egzaminow 
+
+
